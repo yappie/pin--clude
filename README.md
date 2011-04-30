@@ -17,9 +17,12 @@ This will install [Stamps] library to `[path-to-pin::clude]/libs/stamps/pin.php`
 Ideas
 =====
 
-* "pin file"
+* "pin file" that has installation "instructions"
 * tar.gz support?
 * configuration files? setup wizard?
+* merging with local files? like images/
+  * what to do on conflict?
+* uninstaller
 * ftp/ssh
 * chmod management via sudo / su -
 * local/github repository of popular libraries (so that people can fork and manage their own "pin" files)
