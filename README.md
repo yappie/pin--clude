@@ -2,7 +2,7 @@ pin::clude
 ==========
 
 Currently it's a work-in-progress. 
-Basic idea is to try to give PHP ability to manage PHP libraries as simple as `pin::clude('smarty');` and using web interface of some sort to install it (via ftp/ssh/chmods, etc...)
+Basic idea is to try to give PHP ability to manage PHP libraries (think "smarty", "codeigniter", "propel") as simple as `pin::clude('smarty');` and using web interface of some sort to install it (via ftp/ssh/chmods, etc...)
 
 Current functionality
 =====================
