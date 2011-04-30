@@ -19,9 +19,10 @@ Ideas
 
 * "pin file"
 * tar.gz support?
+* configuration files?
 * ftp/ssh
 * chomd management via sudo / su -
 * local/github repository of popular libraries (so that people can fork and manage their own "pin" files)
 * simple test with Stamps, DBix
 * more advanced test with Propel, Smarty, Doctrine
-* advanced tests - Zend Framework, CodeIgniter
+* advanced tests - Zend Framework, CodeIgniter, Krumo
